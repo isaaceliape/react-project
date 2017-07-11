@@ -1,0 +1,15 @@
+.app{
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate3d(-50%,-50%,0);
+}
+ul {
+  height: 400px;
+  width: 300px;
+  outline: 1px solid #c3c3c3;
+  overflow-y: auto;
+}
+button{
+  width: 300px;
+}
